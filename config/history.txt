@@ -1,0 +1,38 @@
+
+05-09-2020 17:02:05 INFO: App Name: chess
+05-09-2020 17:02:57 INFO: App Name: notepad
+05-09-2020 17:04:11 INFO: App Name: notepad
+05-09-2020 17:07:00 INFO: App Name: notepad
+05-09-2020 17:07:37 INFO: App Name: notepad
+05-09-2020 17:08:09 INFO: App Name: notepad
+05-09-2020 17:42:17 INFO: Screensaver on: C:\Windows\system32\Ribbons.scr
+05-09-2020 17:42:55 INFO: Games: None
+07-09-2020 12:34:42 INFO: Screensaver on: C:\Windows\system32\Hyperspace.scr
+08-09-2020 08:53:13 INFO: Games: None
+24-08-2024 12:02:11 INFO: Input: hello hello
+24-08-2024 12:03:22 INFO: Input: hello
+24-08-2024 12:03:31 INFO: Input: hello
+24-08-2024 12:04:22 INFO: Input: hello
+24-08-2024 12:04:49 INFO: Input: online Se Koi
+24-08-2024 14:31:16 INFO: App Name: notepad
+24-08-2024 14:31:47 INFO: App Name: notepad
+24-08-2024 14:32:01 INFO: App Name: chrome
+24-08-2024 14:33:16 INFO: App Name: chrome
+24-08-2024 14:33:32 INFO: App Name: word
+24-08-2024 14:35:10 INFO: App Name: word
+24-08-2024 14:35:23 INFO: App Name: calculator
+24-08-2024 14:49:31 INFO: Screensaver on: C:\Windows\system32\Ribbons.scr
+24-08-2024 14:49:35 INFO: Screensaver on: C:\Windows\system32\Ribbons.scr
+24-08-2024 14:53:53 INFO: Games: None
+24-08-2024 14:54:43 INFO: Games: None
+24-08-2024 15:17:05 INFO: App Name: whatsapp
+24-08-2024 15:19:51 INFO: App Name: whatsapp
+24-08-2024 15:22:45 INFO: App Name: whatsapp
+24-08-2024 15:24:30 INFO: App Name: whatsapp
+24-08-2024 15:32:11 INFO: App Name: calculator
+24-08-2024 15:32:45 INFO: App Name: calculator
+24-08-2024 15:33:02 INFO: App Name: calculator
+24-08-2024 17:01:08 INFO: Web Search : what is photosynthesis
+24-08-2024 17:01:39 INFO: Web Search : what is photosynthesis
+24-08-2024 17:02:06 INFO: Web Search : what is photosynthesis
+24-08-2024 17:02:26 INFO: Input: show me
